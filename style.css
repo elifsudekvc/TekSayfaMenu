@@ -1,0 +1,177 @@
+body{
+    background-image:linear-gradient(
+        rgba(202, 155, 246, 0.285),
+            rgba(0, 0, 0, 0.512)),
+    url(resimler/arkaResim.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: repeat-x;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#menuIlkArkaPlan{
+  background-color:black;
+  opacity: 0.8;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  height: 100vh;
+  border-radius: 5px;
+  color:white;
+  padding: 20px;
+  margin-left: 30px;
+}
+
+
+.logo{
+    width: 190px;
+    height: 200px;
+    border-radius: 10px;
+}
+ 
+.resimler{
+    width: 70%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+a:hover{
+    color:rgb(3, 221, 255);
+}
+
+a:active{
+    color:rgb(225, 0, 255);
+}
+
+#kahvalti {
+      
+  background-color:rgba(52, 24, 58, 0.963);
+  opacity: 0.8;
+  width: 80%;
+  border-radius: 5px;
+  color:white;
+  padding-top: 20px;
+  margin-left: 30px;
+
+}
+#makarna{
+      
+    background-color:black;
+    opacity: 0.8;
+    width: 80%;
+    border-radius: 5px;
+    color:white;
+    padding-top: 20px;
+    margin-left: 30px;
+  
+}
+#burger{
+      
+    background-color:rgba(52, 24, 58, 0.963);
+    opacity: 0.8;
+    width: 80%;
+    border-radius: 5px;
+    color:white;
+    padding-top: 20px;
+    margin-left: 30px;
+  
+}
+
+#pizza{
+      
+    background-color:black;
+    opacity: 0.8;
+    width: 80%;
+    border-radius: 5px;
+    color:white;
+    padding-top: 20px;
+    margin-left: 30px;
+  
+}
+
+#salata{
+      
+    background-color:rgba(52, 24, 58, 0.963);
+    opacity: 0.8;
+    width: 80%;
+    border-radius: 5px;
+    color:white;
+    padding-top: 20px;
+    margin-left: 30px;
+  
+}
+
+#anayemek{
+      
+    background-color:black;
+    opacity: 0.8;
+    width: 80%;
+    border-radius: 5px;
+    color:white;
+    padding-top: 20px;
+    margin-left: 30px;
+  
+}
+#tatli{
+      
+    background-color:rgba(52, 24, 58, 0.963);
+    opacity: 0.8;
+    width: 80%;
+    border-radius: 5px;
+    color:white;
+    padding-top: 20px;
+    margin-left: 30px;
+  
+}
+#sıcakIcecek{
+      
+    background-color:black;
+    opacity: 0.8;
+    width: 80%;
+    border-radius: 5px;
+    color:white;
+    padding-top: 20px;
+    margin-left: 30px;
+  
+}
+#sogukIcecek{
+      
+    background-color:rgba(52, 24, 58, 0.963);
+    opacity: 0.8;
+    width: 80%;
+    border-radius: 5px;
+    color:white;
+    padding-top: 20px;
+    margin-left: 30px;
+  
+}
+
+.altSıra{
+list-style-type:circle;
+margin-left: 20px;
+}
+
+.yukari{
+    position: fixed;
+    bottom:15px;
+    right: 10px;
+    display: none;
+}
+
+.goster{
+    display: block;
+}
+
+.kaybol{
+    display: none;
+}
